@@ -1,0 +1,26 @@
+{
+  "name": "be-code-challenge",
+  "version": "1.0.0",
+  "description": "GAN Integrity backend code challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "GAN Integrity",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs-extra": "7.0.0",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gandevops/backend-code-challenge.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gandevops/backend-code-challenge/issues"
+  },
+  "homepage": "https://github.com/gandevops/backend-code-challenge#readme"
+}
